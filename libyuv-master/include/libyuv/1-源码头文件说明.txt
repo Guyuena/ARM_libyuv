@@ -1,0 +1,7 @@
+    // 格式转换（NV21、NV12、I420等格式互转）
+    libyuv\include\libyuv\convert_from.h
+    // 图像处理（镜像、旋转、缩放、裁剪）
+    libyuv\include\libyuv\planar_functions.h
+    libyuv\include\libyuv\rotate.h
+    libyuv\include\libyuv\scale.h
+    libyuv\include\libyuv\convert.h
